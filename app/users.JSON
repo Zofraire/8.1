@@ -1,0 +1,12 @@
+{
+  "users": {
+    "userId1": {
+      "name": "sodo",
+      "email": "sodochir@gmail.com"
+    },
+    "userId2": {
+      "name": "amar",
+      "email": "melanzue@gmail.com"
+    }
+  }
+}
